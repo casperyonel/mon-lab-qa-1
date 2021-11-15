@@ -42,3 +42,6 @@ test("Checking the datatype of add", () => {
     expect(typeof add(1, 2)).toBe("number")
 })
 
+
+// MY TRELLO BOARD IS LINKED HERE: https://trello.com/b/JG3Zvx5p/mon-lab-nov-15
+
